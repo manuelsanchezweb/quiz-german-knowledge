@@ -1,235 +1,104 @@
 [
   {
     "id": 1,
-    "question": "¿Cuándo fue la última reforma del paseo?",
-    "hint": "Ya ha llovido un poco en verdad...",
-    "answers": ["2021", "2019", "2010", "2020"],
-    "correctAnswerIndex": 0
+    "question": "92. Wo befindet sich die größte zusammenhängende deutsche Sprachinsel außerhalb Europas?",
+    "answers": ["Kanada", "Namibia", "USA", "Brasilien"],
+    "correctAnswerIndex": 3
   },
   {
     "id": 2,
-    "question": "¿Cómo se llama el antiguo dueño de la tienda?",
-    "hint": "Es un nombre muy común en España",
-    "answers": ["Taico", "Juan", "Ramón", "Manolo"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 3,
-    "question": "¿Cuál es el sueño de todo buen melicenero?",
-    "hint": "Es un sueño poco común",
+    "question": "97. Bei welchem dieser Paare ist nur eine Schreibweise zulässig?",
     "answers": [
-      "Una reforma del paseo",
-      "Tener una buena depuradora de vertidos",
-      "Escaleras mecánicas en la torre",
-      "Playas de arena fina"
-    ],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 4,
-    "question": "¿Cómo se llaman los trillizos?",
-    "hint": "Los únicos trillizos de Melicena",
-    "answers": [
-      "Patricio, Sergio y Manuel",
-      "Patricio, Francisco y Rafael",
-      "Patricio, Francisco y Manuel",
-      "Patricio, Francisco y Samuel"
+      "behende / behände",
+      "aufwendig / aufwändig",
+      "einwenden / einwänden",
+      "einbleuen / einbläuen"
     ],
     "correctAnswerIndex": 2
   },
   {
-    "id": 5,
-    "question": "¿Cuándo se abre el quiosco?",
-    "answers": ["Año Nuevo", "Semana Santa", "Día de Andalucía", "San Juan"],
+    "id": 3,
+    "question": "88. Das deutsche Wort für Insekten lautet",
+    "answers": ["Hautflügler", "Weichtiere", "Kerbtiere", "Gliederfüßer"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "56. Welches dieser Wörter bedeutet „auf Eingebung beruhend“?",
+    "answers": ["instinktiv", "instruktiv", "induktiv", "intuitiv"],
     "correctAnswerIndex": 3
   },
   {
+    "id": 5,
+    "question": "50. Der Mut ist eigentlich männlich, zumindest in grammatischer Hinsicht. Manchmal kann er aber auch weiblich sein. Welches dieser vier Wörter auf -mut ist weiblich?",
+    "answers": ["Freimut", "Großmut", "Kleinmut", "Wankelmut"],
+    "correctAnswerIndex": 1
+  },
+  {
     "id": 6,
-    "question": "Todo buen melicenero sabe que la mezquita antes era …",
-    "answers": ["una notaría", "una tienda", "un bar", "una pizzería"],
+    "question": "42. Schlagsahne heißt in Österreich ...",
+    "answers": ["Schlagrahm", "Schlagober", "Schlagobers", "Schlagoberst"],
     "correctAnswerIndex": 2
   },
   {
     "id": 7,
-    "question": "¿Cuál fue allá por 2021-2022 el deporte de moda en Melicena?",
-    "answers": ["Barranquismo", "Parapente", "Tenis", "Paddle surf"],
-    "correctAnswerIndex": 3
-  },
-  {
-    "id": 8,
-    "question": "¿Cuál es la primera casa del pueblo?",
-    "answers": ["La de la Dora", "La de la Kika", "La de Emilio", "La casería"],
+    "question": "35. Um bestimmte mathematische Probleme zu lösen, kann man sich eines ... bedienen.",
+    "answers": ["Algorhythmus", "Algorithmus", "Algorythmus", "Algorhithmus"],
     "correctAnswerIndex": 1
   },
   {
-    "id": 9,
-    "question": "Dicho: Melicena, el que no tiene pan...",
-    "hint": "Es un dicho muy melicenero",
+    "id": 8,
+    "question": "12. Was besitzt jemand, der Chuzpe hat?",
     "answers": [
-      "no cena",
-      "no tiene alacena",
-      "tendrá sardinas",
-      "no es de Melicena"
+      "viel Geld, ein Vermögen",
+      "guten Geschmack",
+      "ein großes Herz",
+      "Frechheit"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 9,
+    "question": "8. Die meisten öffentlichen Plätze und U-Bahnhöfe sind heute ...",
+    "answers": [
+      "Video überwacht",
+      "Video-überwacht",
+      "video überwacht",
+      "videoüberwacht"
+    ],
+    "correctAnswerIndex": 3
   },
   {
     "id": 10,
-    "question": "¿Cuál de estos acontecimientos tuvo lugar el 14 de agosto de 2021?",
-    "hint": "Nos tuvo a todos en vilo",
+    "question": "4. Die Miete wird fällig zu Beginn ...",
     "answers": [
-      "Persecución de narcos en la playa",
-      "Caída de roca del peñón",
-      "Apertura del paseo marítimo tras reforma",
-      "Apertura de la torre tras reforma"
+      "eines jedes Monats",
+      "einen jeden Monats",
+      "eines jeden Monat",
+      "eines jeden Monats"
     ],
-    "correctAnswerIndex": 0
+    "correctAnswerIndex": 3
   },
   {
     "id": 11,
-    "question": "Artista más célebre en las fiestas de verano",
+    "question": "2. Was beudetet das Wort „Oligarchie“?",
     "answers": [
-      "Dj Julian",
-      "Carmen Mari y su acordeón",
-      "La orquesta del mar",
-      "Carlos Sadness"
+      "Herrschaft der Ölbarone",
+      "Herrschaft der Wenigen",
+      "Willkürherrschaft",
+      "Herrschaft der Besten"
     ],
     "correctAnswerIndex": 1
   },
   {
     "id": 12,
-    "question": "¿Hasta qué curso escolar puedes cursar en el colegio de Melicena?",
+    "question": "80. Viel gesprochen und geschrieben wurde",
     "answers": [
-      "2º de ESO",
-      "4º de ESO",
-      "6º de primaria",
-      "Melicena no tiene colegio"
+      "über Goethes letzte Worte",
+      "über Goethes letzten Worte",
+      "über Goethes letzter Worte",
+      "über Goethes letzten Worten"
     ],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 13,
-    "question": "¿Qué código postal usa un buen melicenero para los paquetes?",
-    "answers": [
-      "A Melicena no llegan los paquetes",
-      "18713 (Sorvilán)",
-      "18700 (Albuñol)",
-      "18750 (La Mamola)"
-    ],
-    "correctAnswerIndex": 3
-  },
-  {
-    "id": 14,
-    "question": "¿Qué no tiene Melicena?",
-    "answers": [
-      "Consultorio médico",
-      "Guadalinfo",
-      "Piscina infinity",
-      "Ayuntamiento"
-    ],
-    "correctAnswerIndex": 3
-  },
-  {
-    "id": 15,
-    "question": "¿Quiénes son los creadores de este quiz?",
-    "answers": [
-      "Raúl Ferrandiz y Sergio Morenetti",
-      "Manuel Sabio y Fran Sabio",
-      "Mari Carmen Fernández y Manuel Sánchez",
-      "Asis, Pepe y Luis"
-    ],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 16,
-    "question": "¿Cuál es la MAYOR novedad del verano en Melicena?",
-    "answers": [
-      "Han encontrado un huevo de ornitorrinco cerca de la cascada",
-      "Se ha caído un trozo de roca del peñón",
-      "Un melicenero ha cultivado unos tomates que son azules",
-      "Hay un municipal que procura que no aparque ni Dios en el paseo marítimo"
-    ],
-    "correctAnswerIndex": 3
-  },
-  {
-    "id": 17,
-    "question": "¿Cómo se llama la playa de la imagen?",
-    "img": "/book.jpg",
-    "answers": [
-      "La playa de las conchas",
-      "La playa de las cañas",
-      "Cala Nabo",
-      "Cala de la Rijana"
-    ],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 18,
-    "question": "¿Cuál es el deporte estrella del verano 2023?",
-    "answers": ["1x2", "Carrera de drones", "Petanca", "Playajedrez"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 19,
-    "question": "¿Donde podiás escuchar el dicho <<La tierra es redonda y se demuestra así>>?",
-    "answers": [
-      "En las carreras de sacos",
-      "En el juego de los huevos",
-      "En la final de fútbol",
-      "En la carrera de cintas"
-    ],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": 20,
-    "question": "¿Qué se puede ver por la noche en el cielo melicenero?",
-    "answers": [
-      "Un OVNI",
-      "El Falcon de Pedro Sánchez",
-      "Los satélites de Elon Musk",
-      "Todas las anteriores"
-    ],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 21,
-    "question": "¿Cuándo suelen celebrarse las fiestas de Melicena?",
-    "answers": [
-      "A principios de julio",
-      "Tercera semana de julio",
-      "Tercera semana de agosto",
-      "A principios de agosto"
-    ],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": 22,
-    "question": "¿Cómo se llama el moderno complejo de edificios de la parte de arriba de Melicena?",
-    "answers": [
-      "Sueños de Melicena",
-      "Sueños del Mar",
-      "Sueñirráneo",
-      "Sueños del Mediterráneo"
-    ],
-    "correctAnswerIndex": 3
-  },
-  {
-    "id": 23,
-    "question": "¿Cómo se llama la patrona de Melicena?",
-    "img": "/book.jpg",
-    "answers": [
-      "La virgen de las Angustias",
-      "La virgen de la Cabeza",
-      "La virgen del Mar",
-      "La virgen del Carmen"
-    ],
-    "correctAnswerIndex": 3
-  },
-  {
-    "id": 24,
-    "question": "¿Cómo se llama el dueño del quiosco?",
-    "img": "/book.jpg",
-    "answers": ["Mauricio", "Emiliano", "Emilio", "Emelino"],
-    "correctAnswerIndex": 2
+    "correctAnswerIndex": 0
   }
 ]

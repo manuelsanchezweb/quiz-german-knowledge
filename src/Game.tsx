@@ -57,6 +57,7 @@ const Question = ({ info }: { info: QuestionType }) => {
         {info.answers.map((answer, index) => (
           <ListItem key={index} disablePadding divider>
             <ListItemButton
+              className="!opacity-100"
               disabled={info.userSelectedAnswerIndex != null}
               sx={{
                 bgcolor: getBackgroundColor(info, index),
@@ -92,6 +93,7 @@ export const Game = () => {
         justifyContent="center"
       >
         <IconButton
+          className="!opacity-100"
           onClick={goPrevQuestion}
           disabled={currentQuestionIndex === 0}
         >
@@ -99,6 +101,7 @@ export const Game = () => {
         </IconButton>
         {currentQuestionIndex + 1} / {questions.length}
         <IconButton
+          className="!opacity-100"
           onClick={goNextQuestion}
           disabled={currentQuestionIndex >= questions.length - 1}
         >
