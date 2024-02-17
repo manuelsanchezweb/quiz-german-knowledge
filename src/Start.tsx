@@ -42,7 +42,7 @@ const Start = ({ data }: { data: any }) => {
       (item: { id: number; name: string; score: number }) => item.name === name
     )
     if (nameExists) {
-      setErrorMessage('Este nombre ya está pillado, así que mejor busca otro.')
+      setErrorMessage('Bitte, benutzen Sie einen anderen Benutzername.')
       setIsDisabled(true)
     } else {
       setErrorMessage(null)

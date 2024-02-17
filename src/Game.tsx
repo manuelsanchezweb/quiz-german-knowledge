@@ -14,21 +14,24 @@ import { ArrowBackIosNew, ArrowForwardIos } from '@mui/icons-material'
 import { Footer } from './Footer'
 import ModalGame from './ModalGame'
 
-// es mejor dejar esta función fuera porque así solo se renderiza una vez y no una vez por cada pregunta
+/**
+ *
+ * @param info the type of question
+ * @param index the index of the question
+ * @returns
+ *
+ * This function is used to get the background color of the answer
+ */
 const getBackgroundColor = (info: QuestionType, index: number) => {
   const { userSelectedAnswerIndex, correctAnswerIndex } = info
 
-  // usuario no ha seleccionado ninguna respuesta
   if (userSelectedAnswerIndex == null) return 'transparent'
 
-  // preguntas que no son las seleccionadas por el usuario y que no son la correcta
   if (index !== correctAnswerIndex && index !== userSelectedAnswerIndex)
     return 'transparent'
 
-  // usuario ha seleccionado una respuesta, y es correcta
-  if (index === correctAnswerIndex) return 'green'
+  if (index === correctAnswerIndex) return 'darkgreen'
 
-  // si esta es la seleccion del usuario pero no es la correcta
   if (index === userSelectedAnswerIndex) return 'red'
 
   return 'transparent'

@@ -7,7 +7,6 @@ import { useUserStore } from './store/user'
 import { supabase } from './lib/api'
 
 const ModalGame = () => {
-  // Handle del modal
   const [open, setOpen] = useState(false)
   const handleOpen = () => setOpen(true)
   const handleClose = () => setOpen(false)

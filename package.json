@@ -1,7 +1,7 @@
 {
-  "name": "zustand-react-typescript-quizz",
+  "name": "zustand-react-typescript-german-quiz",
   "private": true,
-  "version": "1.0.12",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
